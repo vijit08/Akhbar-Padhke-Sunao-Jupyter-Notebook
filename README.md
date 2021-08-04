@@ -13,6 +13,7 @@ Python Concept Used:
 #Dictionary Comprehension
 #for loop
 #modules
+#TKinter used for GUI.
 
 IDE Used:
 Jupyter Notebook
